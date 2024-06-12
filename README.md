@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Samira da Rocha</h1>
-<h3 align="center">A determined data analyst from Brazil living in Germany</h3>
+<h3 align="center">A determined data person from Brazil living in Germany</h3>
 
 - 🌱 I’m currently learning **Python, SQL, Machine Learning**
 
